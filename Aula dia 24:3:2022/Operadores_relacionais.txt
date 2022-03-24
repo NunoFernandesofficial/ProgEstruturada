@@ -1,0 +1,12 @@
+//operadores lógicos 
+
+> verdadeiro se o operando à esquerda é maior    A > B
+< verdadeiro se o operando à esquerda é menor    A < B
+>= Verdadeiro se o operando à esquerda é maior ou igual A >= B
+<= Verdadeiro se o operando à esquerda é menor ou iual A <= B
+== verdadeiro se os operandos são iguais A==B
+!= Verdadeiro se os dois operandos são diferentes A!=B
+
+OU lógico -> ||     A||B
+E lógico -> &&      A&&B
+NEGAÇÃO -> !        A!B
