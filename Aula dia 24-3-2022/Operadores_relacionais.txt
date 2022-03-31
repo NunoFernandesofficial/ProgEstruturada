@@ -10,3 +10,23 @@
 OU lógico -> ||     A||B
 E lógico -> &&      A&&B
 NEGAÇÃO -> !        A!B
+
+
+
+If statments:
+
+if (expressão booleana)
+{
+    <Instrução>
+}
+else
+{
+    <Instrução>
+}
+
+if (numero % 2 == 0){
+ printf("numero é par.\n");
+}
+else{
+    printf("Numero é impar.\n");
+}
